@@ -1,0 +1,56 @@
+<!Doctype CSS>
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.a: hover{
+	color: purple;
+	onclick: blue;
+}
+header{
+	color: darkblue;
+	text-align: center;
+	font-family:  Helvetica;
+	font-style: strong;
+}
+
+body{
+	background-color: lightgrey;
+}
+
+p{
+	font-face: MrEavesSans;
+    src= "https://typekit.com/fonts/mr-eaves-sans"
+	size:12.5px;
+	color: purple;
+	text-justify: inter-word
+}
+.intro{
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+
+
+}
+.conclusion{
+  display:flex;
+  width:50px;
+  
+}
+.blockquote{
+	display:flex
+	
